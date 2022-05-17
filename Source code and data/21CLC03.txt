@@ -1,0 +1,12 @@
+21455335,do thinh,male,18/07/2003
+21333333,do Phuoc Khoa,male,18/07/2003
+21019494,do Xong Luan,male,18/07/2003
+21122144,do Tinh Cam,male,18/07/2003
+21122901,do ann Dai,male,18/07/2003
+21214566,do ann juay,male,18/07/2003
+21901222,do ann KINGKONG,male,18/07/2003
+21345678,do ann uiss,male,18/07/2003
+21898989,do ann saefer,male,18/07/2003
+00000015,Nguyen Thi Quynh Nhu,female,18/07/2003
+21213123,Ta Quang Buu,male,10/05/2003
+21124444,Quynh Anh,female,10/09/2003
